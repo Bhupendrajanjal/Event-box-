@@ -1,0 +1,26 @@
+.box1{
+    width: 400px;
+    height: 400px;
+    background-color: red;
+   
+}
+.box1:hover{
+    border: 6px dashed yellow;
+    
+}
+
+.box2{
+    margin-top: 10px;
+    width: 400px;
+    height: 400px;
+    background-color: red;
+   
+}
+
+.box3{
+    margin-top: 10px;
+    height: 255px;
+    width: 255px;
+    background-color: rgb(138, 43, 226);
+   
+}
